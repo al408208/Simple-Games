@@ -1,0 +1,29 @@
+	//solo sirve si no eres el que pilla,igualmente funcionaria porque te acaban tocando los otros
+//	Rectangle recPer=new Rectangle(personajes.get(movimiento.getJugador()-1).getX(),personajes.get(movimiento.getJugador()-1).getY(),personajes.get(movimiento.getJugador()-1).getANCHO(),personajes.get(movimiento.getJugador()-1).getALTO());
+//	for (Personaje personaje : personajes) {	
+//		if(personaje.getPersonaje()!=movimiento.getJugador()) {
+//			Rectangle recPersonajes=new Rectangle(personaje.getX(),personaje.getY(),personaje.getANCHO(),personaje.getALTO());
+//			if(personaje.getPersonaje()==6) {
+//				if(recPer.intersects(recPersonajes)){
+//					Recursos.rickpilla.play();
+//					capturados.add(personajes.get(movimiento.getJugador()-1));
+//				}
+//			}
+//		}
+//	}
+	//update opcion 2
+//	if(movimiento.getMove()==0){
+//	personajes.get(movimiento.getJugador()-1).up();
+//}
+//if (movimiento.getMove()==1) {
+//	personajes.get(movimiento.getJugador()-1).right();
+//}
+//if(movimiento.getMove()==2){
+//	personajes.get(movimiento.getJugador()-1).down();
+//}
+//if (movimiento.getMove()==3) {
+//	personajes.get(movimiento.getJugador()-1).left();
+//}
+//if (movimiento.getMove()==4) {
+//	personajes.get(movimiento.getJugador()-1).espacio();
+//}
